@@ -2,7 +2,7 @@ I decided to create a small motif-generator for melodies in a random scale. It c
 
 If you use windows, the MIDI file that you are going to get can be played as is (it will be saved in the directory of your project). Otherwise, you might have to convert it from MIDI to mp3 manually. If you think you ever need to convert many files from midi to mp3, you can download this free converter: https://2140-4-75211970.en.softonic.com/. 
 
-The results are unique and distinguishable from each other. The code can create > 1000 unique 4-second rhythms and > 1.8 * 10^15 unique 4-second melodies.
+The results are unique and distinguishable from each other. The code can create > 1000 unique 4-second 120 BPM rhythms and > 1.8 * 10^15 unique 4-second melodies.
 
 In its current state, it generates a 50-second sequence of power chords with the root in two octaves (e.g. A - F - A (octave higher than the previous A)) in an ambigous (either major or minor) scale, but it can be altered easily to play major or minor sequences, chords, intervals, and single notes in any scale (you would have to set up the first root note to be from the desired scale in this case).
 
