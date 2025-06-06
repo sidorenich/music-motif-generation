@@ -1,6 +1,6 @@
 I decided to create a small motif-generator for melodies in a random scale. It can be useful for psychologists who study musical perception to generate the stimuli for their experiments, for musicians to get some inspiration, or anyone else interested. The code uses no AI and works relatively quickly.
 
-If you use windows, the MIDI file that you are going to get can be played as is (it will be saved in the directory of your project). Otherwise, you might have to convert it from MIDI to mp3 manually.
+If you use windows, the MIDI file that you are going to get can be played as is (it will be saved in the directory of your project). Otherwise, you might have to convert it from MIDI to mp3 manually. If you think you ever need to convert many files from midi to mp3, you can download this free converter: https://2140-4-75211970.en.softonic.com/. 
 
 The results are unique and distinguishable from each other. The code can create > 1000 unique 4-second rhythms and > 1.8 * 10^15 unique 4-second melodies.
 
